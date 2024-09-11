@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My primary research focuses on the role of interpersonal emotion regulation in individual development and adolescent mental health. I employ both experimental methods and survey studies, integrating emerging technologies such as electrocardiography (ECG), genetics, and neuroscience to support my work. Since 2021, I have been pursuing a PhD at Hunan Normal University, where my dissertation investigates the impact of parent-child relationships and serotonergic polygenic factors on adolescent depression. Since September 2022, I have also been enrolled in a joint PhD program at VU Amsterdam, with my research centered on 'Emotional Support and Mental Health: Investigating Interpersonal Emotion Regulation in Chinese and Dutch Contexts.' I have co-authored numerous publications in this field.
+
+本人主要研究领域涉及人际情绪调节在个体发展和青少年心理健康中的作用，研究方法包括实验研究和问卷调查，并利用心电图（ECG），基因和神经科学等新兴技术辅助研究工作。本人自2021 年起在湖南师范大学攻读博士学位(博士课题：亲子关系与血清素系统多基因对青少年抑郁的影响机制研究)，并从2022年9月至今在阿姆斯特丹自由大学(VU Amsterdam)攻读联合博士学位(PhD topic: Emotional Support and Mental Health: Investigating Interpersonal Emotion Regulation in
+Chinese and Dutch Contexts)。发表（合作）了数十篇论文 https://scholar.google.com/citations?user=RgGpmekAAAAJ&hl=en
+
 
 A data-driven personal website
 ======
